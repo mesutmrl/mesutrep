@@ -1,3 +1,9 @@
 Java File Work
 
-/** GPL Public License Under circumtances **/
+/** 
+  * Splitting videos into smaller chunks
+  * So this way, videos could be uploaded
+  * to server while they are being recorded.
+  * And finally on the server side, videos
+  * could be merged.
+  **/
